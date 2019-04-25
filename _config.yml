@@ -24,9 +24,10 @@ github_username:  mvanzelst
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
